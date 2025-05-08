@@ -71,7 +71,7 @@ Build a simple Vietnamese TTS pipeline that:
 ```bash
 cd tts/
 pip install gTTS
-python tts_pipeline.py
+python main.py
 ```
 
 Output will be saved as: `output.mp3`
@@ -80,7 +80,7 @@ Output will be saved as: `output.mp3`
 
 ## 📄 Reports
 
-- Full write-up for both tasks is available in [`Vietnamese_TTS_and_NER_Complete_Report.docx`](Vietnamese_TTS_and_NER_Complete_Report.docx)
+- Full write-up for both tasks is available in [`Vietnamese_TTS_and_NER_Complete_Report.pdf`](Vietnamese_TTS_and_NER_Complete_Report.pdf)
 
 ---
 
@@ -110,7 +110,7 @@ python -m spacy download en_core_web_sm
 
 ## 👨‍💻 Author
 
-[Your Name] – AI Intern Candidate at Golden Owl Solutions  
+NGUYEN NGOC YEN NHI – AI Intern Candidate at Golden Owl Solutions  
 Date: May 2025
 
 ---
